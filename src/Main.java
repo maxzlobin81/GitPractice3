@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Another change made");
         System.out.println("Implementing new feature on Max2 branch");
         System.out.println("Another feature added on Max2");
-        System.out.println("testing out branch 4");
+        System.out.println("testing out branch 4 for fun);
     }
 }
