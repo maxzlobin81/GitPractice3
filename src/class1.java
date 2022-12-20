@@ -5,5 +5,6 @@ public class class1 {
     String xx;
     String xxx;
     int z;
+    String branch4;
 
 }
