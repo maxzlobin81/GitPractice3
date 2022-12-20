@@ -4,4 +4,6 @@ public class class1 {
     String z;
     String xx;
     String xxx;
+    int z;
+
 }
