@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("I am git practice 3");
+        System.out.println("Max working on git practice 3");
     }
 }
